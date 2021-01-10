@@ -8,6 +8,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "Test\n";
+	std::cout << "新規ブランチで追加\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
